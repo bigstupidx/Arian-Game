@@ -1,2 +1,2 @@
 # Arian-Game
-Main repository of Arian Game.
+The main repository for development of Arian´s game.
