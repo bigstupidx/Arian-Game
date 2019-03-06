@@ -1,2 +1,2 @@
-# Arian-Game
-The main repository for development of Arian´s game.
+﻿# Arian-Game
+The main repository for development of Hash Race game.
